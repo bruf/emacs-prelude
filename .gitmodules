@@ -1,6 +1,6 @@
 [submodule "personal"]
 	path = personal
-	url = git@github.com:bruf/emacs-prelude-personal.git
+	url = https://bruf@github.com/bruf/emacs-prelude-personal.git
 [submodule "vendor/feature-mode"]
 	path = vendor/feature-mode
 	url = https://github.com/michaelklishin/cucumber.el
